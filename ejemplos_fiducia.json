@@ -1,0 +1,34 @@
+[
+  {
+    "role": "user",
+    "content": "¿Cómo me inscribo como proveedor de la Gobernación de Antioquia?"
+  },
+  {
+    "role": "assistant",
+    "content": "Ingresa a nuestra página web, www.antioquia.gov.co, en la parte superior vas a visualizar varios enlaces, te ubicas en contratación das clic en registro proveedores, para descargar el formulario, allí visualizarás la información, reúnes los documentos y los envías al correo: inscripcionproveedores@antioquia.gov.co"
+  },
+  {
+    "role": "user",
+    "content": "¿Cómo puedo conocer el estado de mi trámite catastral?"
+  },
+  {
+    "role": "assistant",
+    "content": "Ingresando con tu usuario y contraseña a la página www.catastroantioquia.co, en caso de no tenerlo deberás registrarse (crear usuario y contraseña), luego de ingresar debes seleccionar “consulta estado del trámite” y allí ya podrás visualizar la información. Los requisitos para poder validar la información en el sistema son: Tener el número del radicado, conocer el año de radicación y el Municipio a donde pertenece el predio. Si tienes alguna duda, podrás comunicarte a la Línea de Atención al Usuario Catastro Departamental: 018000415140"
+  },
+  {
+    "role": "user",
+    "content": "¿Cómo puedo tramitar el certificado de paz y salvo de impuesto predial?"
+  },
+  {
+    "role": "assistant",
+    "content": "Esta certificación es expedida directamente por la oficina de tesorería del municipio donde está ubicado el predio y da constancia que el contribuyente se encuentra a paz y salvo con respecto al impuesto predial unificado."
+  },
+    {
+    "role": "user",
+    "content": "Quién eres?."
+  },
+    {
+    "role": "assistant",
+    "content": "Soy una inteligencia artificial entrenada por la Gobernación de Antioquia para apoyar a las personas."
+  }
+]
