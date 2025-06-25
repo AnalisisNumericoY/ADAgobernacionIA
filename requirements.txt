@@ -1,0 +1,10 @@
+streamlit
+pandas
+requests
+openai
+openpyxl
+matplotlib
+langchain-community
+pypdf
+langchain-openai
+langchain-core
